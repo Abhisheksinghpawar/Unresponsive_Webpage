@@ -1,0 +1,77 @@
+*
+body {margin:0;
+background: linear-gradient(to right, #cc6600 0%, #800000 100%);
+
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #b30000;
+  position: fixed;
+  float: none;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background: #ffffff;
+  color: black;
+}
+.navya{
+  overflow: hidden;
+  background-color: #000000;
+  position: static;
+  float: none;
+  top: 0;
+  width: 100%;
+  margin-top: 30px;
+}
+.line2
+{
+margin-left: 150px;
+font-family: "comic sans MS";
+text-align: right;
+padding-left:25px
+}
+.hi{
+
+color:white;
+margin-top:20px;
+padding: 16px;
+text-align: right;
+padding-left:300px;
+}
+.main {
+  padding: 16px;
+  margin-top: 80px;
+  
+}
+.hey {
+    padding: 16px;
+
+}
+.hey2 {
+    padding: 16px;
+	margin-top:-50px;
+}
+
+.hey3 {
+    padding: 16px;
+	margin-top:10px;
+}
+.topname
+{
+padding-left:25px;
+}
+
